@@ -15,6 +15,21 @@
 <img src="https://img.shields.io/badge/Typescript-1234AB?style=for-the-badge&logo=Typescript&logoColor=white"/>
 </p>
 
+<p align="center">
+<h3 align="center">🔔Contact me</h3>
+</p>
+<p align="center">
+<a href="mailto:ecar1234@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-fff?style=flag&logo=gmail&logoColor=red"/>
+</a>
+<a href="https://codingetude.tistory.com/">
+<img src="https://img.shields.io/badge/Tech blog-000?style=flag"/>
+</a>
+<a href="https://www.instagram.com/ecar1234/">
+<img src="https://img.shields.io/badge/Tech blog-dc007f?style=flag&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
 
 <!--
 **ecar1234/ecar1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
