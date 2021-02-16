@@ -1,5 +1,6 @@
 <p align="center">
-<h3 align="center">🔨Stack</h3>
+<h2 align="center">🔨Stack</h2>
+<p align="center">Techs that i've used at least once</p>
 </p>
 
 <p align="center"> 
