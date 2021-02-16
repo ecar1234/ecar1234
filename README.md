@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">🔨Stack</h2>
+<h3 align="center">🔨Stack</h3>
 <p align="center">Techs that i've used at least once</p>
 </p>
 
@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-<h2 align="center">🔔Contact me</h2>
+<h3 align="center">🔔Contact me</h3>
 </p>
 <p align="center">
 <a href="mailto:ecar1234@gmail.com">
