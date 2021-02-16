@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Gmail-fff?style=flag&logo=gmail&logoColor=red"/>
 </a>
 <a href="https://codingetude.tistory.com/">
-<img src="https://img.shields.io/badge/Tech blog-000?style=flag"/>
+<img src="https://img.shields.io/badge/Tech blog-000?style=flat-square&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/ecar1234/">
 <img src="https://img.shields.io/badge/Tech blog-dc007f?style=flag&logo=instagram&logoColor=white"/>
