@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Typescript-1234AB?style=for-the-badge&logo=Typescript&logoColor=white"/><br>
 
 <img src="https://img.shields.io/badge/Mysql-4479a1?style=for-the-badge&logo=Mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Aws-232f32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Aws-232f32?style=for-the-badge&logo=amazon aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/firebasw-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/sequelize-414141?style=for-the-badge&logo=sequelize&logoColor=white"/>
 </p>
