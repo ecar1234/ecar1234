@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/Tech blog-000?style=flag"/>
 </a>
 <a href="https://www.instagram.com/ecar1234/">
-<img src="https://img.shields.io/badge/Tech blog-dc007f?style=flag&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/instargram-dc007f?style=flag&logo=instagram&logoColor=white"/>
 </a>
 </p>
 
