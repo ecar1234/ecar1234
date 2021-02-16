@@ -2,7 +2,6 @@
 <h2 align="center">🔨Stack</h2>
 <p align="center">Techs that i've used at least once</p>
 </p>
-
 <p align="center"> 
 <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white"/>
