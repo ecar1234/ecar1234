@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/firebasw-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/sequelize-414141?style=for-the-badge&logo=sequelize&logoColor=white"/>
 </p>
+
 ---
 
 <p align="center">
