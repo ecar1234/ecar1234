@@ -1,7 +1,8 @@
 <p align="center">
-<h2 align="center">🔨Stack</h2>
+<h3 align="center">🔨Stack</h3>
 <p align="center">Techs that i've used at least once</p>
 </p>
+
 <p align="center"> 
 <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -25,22 +26,6 @@
 <img src="https://img.shields.io/badge/Tech blog-000?style=flag"/>
 </a>
 <a href="https://www.instagram.com/ecar1234/">
-<img src="https://img.shields.io/badge/instargram-dc007f?style=flag&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tech blog-dc007f?style=flag&logo=instagram&logoColor=white"/>
 </a>
 </p>
-
-
-<!--
-**ecar1234/ecar1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
