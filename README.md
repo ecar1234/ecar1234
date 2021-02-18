@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/React-48cef7?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/redux-1572b6?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=Express&logoColor=white"/>
