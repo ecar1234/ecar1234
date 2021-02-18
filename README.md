@@ -34,6 +34,6 @@
 <img src="https://img.shields.io/badge/Tech blog-000?style=flat-square&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.instagram.com/ecar1234/">
-<img src="https://img.shields.io/badge/Tech blog-dc007f?style=flat-square&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/instargram-dc007f?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 </p>
