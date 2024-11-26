@@ -4,12 +4,12 @@
 
 <p align="center"> 
 
-<img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<!--img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white"/-->
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-1234AB?style=for-the-badge&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=Javascript&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<!--img src="https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white"/-->
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-48cef7?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white"/>
