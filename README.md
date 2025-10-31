@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/badge/HTML-e34f26?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Aws-232f32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/firebasw-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
 
 </p>
 
